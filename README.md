@@ -48,3 +48,31 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# RetoAhorro App
+
+**RetoAhorro** es una aplicación móvil multiplataforma desarrollada en React Native que ayuda a los usuarios a mejorar sus hábitos de ahorro mediante un sistema de retos gamificados, consejos financieros y seguimiento personalizado.
+
+## Funcionalidades principales
+
+- Retos de ahorro (30 días, 52 semanas, o personalizados).
+- Barra de progreso y estadísticas .
+- Consejos financieros prácticos.
+- Retos compartidos con amigos o familiares.
+- Notificaciones para recordar el ahorro diario/semanal.
+
+## Tecnologías utilizadas
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Supabase](https://supabase.com/) como backend y base de datos
+- Git + GitHub (flujo: `main`, `develop`, `feature/`)
+
+## Instalación local (modo desarrollo)
+
+```bash
+git clone https://github.com/claudiss99/reto-ahorro-app.git
+cd reto-ahorro-app
+npm install
+npx expo start
